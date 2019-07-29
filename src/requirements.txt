@@ -1,0 +1,4 @@
+validate_email
+selenium
+pandas
+colorama
